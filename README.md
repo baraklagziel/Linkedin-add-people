@@ -16,7 +16,12 @@ sure your LinkedIn is in English. If not you might need to change the
 button string [Connect] inside the function selectButtonElements. 
 ~~~~~~
 
-===> Open Chrome Dev Tools. 
-===> Paste the script below in the console, press enter and wait.
+===> Step 1: Open Brave Dev Tools
+===> FYI: Please note that the functionality described is not compatible with the Chrome browser
+===> It only works on the Brave browser. Additionally,
+===> Be aware that approximately 15 minutes after the scripts start running,
+===> LinkedIn may detect this automated activity and block you,
+===> Accompanied by a notification indicating that automated processes are operating in the system
+===> Step 2: Paste the script below in the console, press enter, and wait.
 
 ~~~~~~
